@@ -1,8 +1,8 @@
 {
   "name": "react-static-plugin-preact",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A React-Static plugin that adds support for preact",
-  "main": "lib/index.js",
+  "main": "lib.js",
   "repository": "https://github.com/nozzle/react-static-plugin-preact.git",
   "author": "Tanner Linsley <tannerlinsley@gmail.com>",
   "license": "MIT",
