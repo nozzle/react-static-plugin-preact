@@ -1,4 +1,6 @@
-# react-static-plugin-preact
+# THIS PLUGIN HAS BEEN MOVED TO THE [REACT-STATIC MONOREPO](https://github.com/nozzle/react-static) AND IS ACTIVELY MAINTAINED THERE
+
+## react-static-plugin-preact
 
 A [React-Static](https://react-static.js.org) plugin that adds support for [preact](https://github.com/developit/preact)
 
